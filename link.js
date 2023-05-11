@@ -1,0 +1,1 @@
+const offerLink = "vnd.youtube://redirect?event=comments&redir_token=QUFFLUhqbl8tZktFUS1JSldCS0FLY0ZxMExpdElCN1gyZ3xBQ3Jtc0ttRVhYdDdNdkRaNWFScGJhZXZBc3NDUUR2ZGt1cGlDNDlYdjFOMEhnbHdPTmd1amw4QVMtV1Vnbkdsd0IzZmVmQTNRWm5mTHJNNXVkSGxvLXo1YUMwQXBtVWR5am9NSVhkcHRzY3F0TmpNdXhIeHNJSQ&q=https%3A%2F%2Fcuty.io%2FODyZ68Myc&html_redirect=1";
